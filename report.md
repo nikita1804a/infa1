@@ -92,19 +92,19 @@ Wildberries — крупнейший российский маркетплейс
 | Селектор вариантов | Выбор цвета/размера | 7 |
 2.5. Скриншоты
 Скриншот 1. Главная страница Wildberries
-[https://./images/screenshots/step2-01.png](https://github.com/nikita1804a/infa1/edit/lab-report/report.md)
+[https://./images/screenshots/step2-01.png](https://github.com/nikita1804a/infa1/blob/lab-report/скрины/image_2026-09-29_13-38-59.png)
 
 Скриншот 2. Результаты поиска
-[https://./images/screenshots/step2-02.png](https://github.com/nikita1804a/infa1/edit/lab-report/report.md)
+[https://./images/screenshots/step2-02.png](https://github.com/nikita1804a/infa1/blob/lab-report/скрины/image_2026-09-29_13-40-18.png)
 
 Скриншот 3. Карточка товара
-[https://./images/screenshots/step2-03.png](https://github.com/nikita1804a/infa1/edit/lab-report/report.md)
+[https://./images/screenshots/step2-03.png](https://github.com/nikita1804a/infa1/blob/lab-report/скрины/image_2026-09-29_13-40-47.png)
 
 Скриншот 4. Фильтры и сортировка
-[https://./images/screenshots/step2-04.png](https://github.com/nikita1804a/infa1/edit/lab-report/report.md)
+[https://./images/screenshots/step2-04.png](https://github.com/nikita1804a/infa1/blob/lab-report/скрины/image_2026-09-29_13-41-45.png)
 
 Скриншот 5. Блок отзывов
-[https://./images/screenshots/step2-05.png](https://github.com/nikita1804a/infa1/edit/lab-report/report.md)
+[https://./images/screenshots/step2-05.png](https://github.com/nikita1804a/infa1/blob/lab-report/скрины/image_2026-09-29_13-42-44.png)
 
 2.6. Вывод по разделу
 Пользовательский интерфейс Wildberries построен вокруг поиска и каталога. Сценарий поиска и просмотра карточки состоит из ввода запроса, просмотра выдачи, фильтрации и открытия карточки товара.
@@ -125,7 +125,7 @@ CSS-классы: btn, btn--primary
 
 Скриншот HTML-структуры:
 
-[https://./images/screenshots/step3-01.png](https://github.com/nikita1804a/infa1/edit/lab-report/report.md)
+[https://./images/screenshots/step3-01.png](https://github.com/nikita1804a/infa1/blob/lab-report/скрины/image_2026-09-29_13-51-32.png)
 
 3.2. Исследование CSS
 Основные свойства элемента:
@@ -140,7 +140,7 @@ CSS-классы: btn, btn--primary
 | `cursor` | Вид курсора |
 Скриншот CSS-стилей:
 
-[https://./images/screenshots/step3-02.png](https://github.com/nikita1804a/infa1/edit/lab-report/report.md)
+[https://./images/screenshots/step3-02.png](https://github.com/nikita1804a/infa1/blob/lab-report/скрины/image_2026-09-29_13-53-17.png)
 
 3.3. Исследование JavaScript
 JavaScript отвечает за:
@@ -155,7 +155,7 @@ JavaScript отвечает за:
 
 Скриншот загруженных JavaScript-файлов:
 
-[https://./images/screenshots/step3-03.png](https://github.com/nikita1804a/infa1/edit/lab-report/report.md)
+[https://./images/screenshots/step3-03.png](https://github.com/nikita1804a/infa1/blob/lab-report/скрины/image_2026-09-29_13-54-17.png)
 
 3.4. Загружаемые ресурсы
 | Тип | Назначение |
@@ -189,7 +189,7 @@ URL: search.wb.ru/exactmatch/ru/common/v4/search
 
 Скриншот запроса:
 
-[https://./images/screenshots/step3-04.png](https://github.com/nikita1804a/infa1/edit/lab-report/report.md)
+[https://./images/screenshots/step3-04.png](https://github.com/nikita1804a/infa1/blob/lab-report/скрины/image_2026-09-29_14-01-51.png)
 
 3.7. Вывод по разделу
 Клиентская часть отвечает за отображение интерфейса, обработку действий пользователя и взаимодействие с сервером через API. При поиске JavaScript формирует запрос, а сервер возвращает JSON с данными.
@@ -224,7 +224,7 @@ JavaScript обновляет интерфейс, пользователь ви�
 Пользователь видит детальную информацию о товаре.
 
 4.3. Общая последовательность
-[https://./images/screenshots/step5-01.png](https://github.com/nikita1804a/infa1/edit/lab-report/report.md)
+[https://./images/screenshots/step5-01.png](https://github.com/nikita1804a/infa1/blob/lab-report/скрины/1.png)
 
 5. Архитектурная схема
 5.1. Компоненты схемы
@@ -264,7 +264,7 @@ API;
 Пользователь видит результат.
 
 5.3. Схема архитектуры
-[https://./images/screenshots/architecture.png](https://github.com/nikita1804a/infa1/edit/lab-report/report.md)
+[https://./images/screenshots/architecture.png](https://github.com/nikita1804a/infa1/blob/lab-report/скрины/2.png)
 
 5.4. Внешние сервисы
 | Домен | Назначение |
@@ -304,4 +304,4 @@ API;
 
 Финальная схема
 
-[https://./images/screenshots/architecture.png](https://github.com/nikita1804a/infa1/edit/lab-report/report.md)
+[https://./images/screenshots/architecture.png](https://github.com/nikita1804a/infa1/blob/lab-report/скрины/3.png)
