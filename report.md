@@ -92,19 +92,19 @@ Wildberries — крупнейший российский маркетплейс
 | Селектор вариантов | Выбор цвета/размера | 7 |
 2.5. Скриншоты
 Скриншот 1. Главная страница Wildberries
-https://./images/screenshots/step2-01.png
+[https://./images/screenshots/step2-01.png](https://github.com/nikita1804a/infa1/edit/lab-report/report.md)
 
 Скриншот 2. Результаты поиска
-https://./images/screenshots/step2-02.png
+[https://./images/screenshots/step2-02.png](https://github.com/nikita1804a/infa1/edit/lab-report/report.md)
 
 Скриншот 3. Карточка товара
-https://./images/screenshots/step2-03.png
+[https://./images/screenshots/step2-03.png](https://github.com/nikita1804a/infa1/edit/lab-report/report.md)
 
 Скриншот 4. Фильтры и сортировка
-https://./images/screenshots/step2-04.png
+[https://./images/screenshots/step2-04.png](https://github.com/nikita1804a/infa1/edit/lab-report/report.md)
 
 Скриншот 5. Блок отзывов
-https://./images/screenshots/step2-05.png
+[https://./images/screenshots/step2-05.png](https://github.com/nikita1804a/infa1/edit/lab-report/report.md)
 
 2.6. Вывод по разделу
 Пользовательский интерфейс Wildberries построен вокруг поиска и каталога. Сценарий поиска и просмотра карточки состоит из ввода запроса, просмотра выдачи, фильтрации и открытия карточки товара.
@@ -125,7 +125,7 @@ CSS-классы: btn, btn--primary
 
 Скриншот HTML-структуры:
 
-https://./images/screenshots/step3-01.png
+[https://./images/screenshots/step3-01.png](https://github.com/nikita1804a/infa1/edit/lab-report/report.md)
 
 3.2. Исследование CSS
 Основные свойства элемента:
@@ -140,7 +140,7 @@ https://./images/screenshots/step3-01.png
 | `cursor` | Вид курсора |
 Скриншот CSS-стилей:
 
-https://./images/screenshots/step3-02.png
+[https://./images/screenshots/step3-02.png](https://github.com/nikita1804a/infa1/edit/lab-report/report.md)
 
 3.3. Исследование JavaScript
 JavaScript отвечает за:
@@ -155,7 +155,7 @@ JavaScript отвечает за:
 
 Скриншот загруженных JavaScript-файлов:
 
-https://./images/screenshots/step3-03.png
+[https://./images/screenshots/step3-03.png](https://github.com/nikita1804a/infa1/edit/lab-report/report.md)
 
 3.4. Загружаемые ресурсы
 | Тип | Назначение |
@@ -189,7 +189,7 @@ URL: search.wb.ru/exactmatch/ru/common/v4/search
 
 Скриншот запроса:
 
-https://./images/screenshots/step3-04.png
+[https://./images/screenshots/step3-04.png](https://github.com/nikita1804a/infa1/edit/lab-report/report.md)
 
 3.7. Вывод по разделу
 Клиентская часть отвечает за отображение интерфейса, обработку действий пользователя и взаимодействие с сервером через API. При поиске JavaScript формирует запрос, а сервер возвращает JSON с данными.
@@ -224,7 +224,7 @@ JavaScript обновляет интерфейс, пользователь ви�
 Пользователь видит детальную информацию о товаре.
 
 4.3. Общая последовательность
-https://./images/screenshots/step5-01.png
+[https://./images/screenshots/step5-01.png](https://github.com/nikita1804a/infa1/edit/lab-report/report.md)
 
 5. Архитектурная схема
 5.1. Компоненты схемы
@@ -264,7 +264,7 @@ API;
 Пользователь видит результат.
 
 5.3. Схема архитектуры
-https://./images/screenshots/architecture.png
+[https://./images/screenshots/architecture.png](https://github.com/nikita1804a/infa1/edit/lab-report/report.md)
 
 5.4. Внешние сервисы
 | Домен | Назначение |
@@ -301,3 +301,6 @@ https://./images/screenshots/architecture.png
 Взаимодействие клиента и сервера осуществляется через API с использованием HTTP-запросов (Fetch/XHR), что позволяет динамически обновлять интерфейс без полной перезагрузки страницы. Данные хранятся в базе данных, поисковом индексе, кэше и объектном хранилище.
 
 Таким образом, цель лабораторной работы достигнута: получено представление об устройстве современной информационной системы на примере реального цифрового сервиса, изучены её основные компоненты и принципы взаимодействия.
+
+Финальная схема
+https://github.com/nikita1804a/infa1/edit/lab-report/report.md
