@@ -303,4 +303,5 @@ API;
 Таким образом, цель лабораторной работы достигнута: получено представление об устройстве современной информационной системы на примере реального цифрового сервиса, изучены её основные компоненты и принципы взаимодействия.
 
 Финальная схема
-https://github.com/nikita1804a/infa1/edit/lab-report/report.md
+
+[https://./images/screenshots/architecture.png](https://github.com/nikita1804a/infa1/edit/lab-report/report.md)
